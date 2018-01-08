@@ -51,17 +51,17 @@
 
  there are 561 features. some of the features are:
 
-  - tBodyAcc-mean()-X
+    - tBodyAcc-mean()-X
 
-  - tBodyAcc-mean()-Y
+    - tBodyAcc-mean()-Y
 
-  - tBodyAcc-mean()-Z
+    - tBodyAcc-mean()-Z
 
-  - tBodyAcc-std()-X
+    - tBodyAcc-std()-X
 
-  - tBodyAcc-std()-Y
+    - tBodyAcc-std()-Y
 
-  - tBodyAcc-std()-Z
+    - tBodyAcc-std()-Z
 
 For more information concerning features, refer to:
 
