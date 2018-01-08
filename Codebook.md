@@ -1,6 +1,6 @@
 # Codebook
 ## Variables
-* Activity
+### Activity
   - Activity represents activities that each participants performed in the experiment
     
   - These activities are:
@@ -15,7 +15,7 @@
   -Activity was recorded in "y_test.txt" and ""y_train.txt" in the raw data as numbers from 1 to 6. 
 
 
-* Subject
+### Subject
   - Subject represents number of the participants who performed activites in the experiment 
   
   - Each participant is represented by a number from 1 to 30
@@ -24,7 +24,7 @@
 
   
   
-* Value 
+### Value 
 
   - Value represents the average feature values(refer to the end) of each variable for each activity and each subject.
   
