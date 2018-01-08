@@ -1,12 +1,12 @@
-#Getting_and_cleaning_data_course week4 Assignment
+# Getting_and_cleaning_data_course week4 Assignment
 
-##Files in this repo
+## Files in this repo
     README.md -- this file you are reading
     CodeBook.md -- describing variables, the data and transformations
     run_analysis.R -- actual R code
     
 
-##Raw data to be cleaned
+## Raw data to be cleaned
   the original raw data is here:
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
@@ -21,7 +21,7 @@
   activity_labels.txt
 
 
-##What does run_analysis.R do
+## What does run_analysis.R do
   1. Merges the training and the test sets to create one data set.
   2. Extracts only the measurements on the mean and standard deviation for each measurement.
   3. Uses descriptive activity names to name the activities in the data set
@@ -29,7 +29,7 @@
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-##How to run "run_analysis.R"
+## How to run "run_analysis.R"
 just open R and run it. This "run_analysis.R" will do everything for you. There are no other function.R code needed to run "run_analysis.R". 
 And you do not need to download the data by yourself. 
 
