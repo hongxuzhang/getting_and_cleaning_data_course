@@ -7,19 +7,19 @@
     
 
 ## Raw data to be cleaned
-### -The original raw data is here:
-\n
+### The original raw data is here:
+
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
-### -The data used in "run_analysis.R" are:
-  1.subject_test.txt
-  x_test.txt
-  y_test.txt
-  subject_train.txt
-  x_train.txt
-  y_train.txt
-  features.txt
-  activity_labels.txt
+### The data used in "run_analysis.R" are:
+  -subject_test.txt
+  -x_test.txt
+  -y_test.txt
+  -subject_train.txt
+  -x_train.txt
+  -y_train.txt
+  -features.txt
+  -activity_labels.txt
 
 
 ## What does run_analysis.R do
@@ -31,7 +31,7 @@
 
 
 ## How to run "run_analysis.R"
-just open R and run it. This "run_analysis.R" will do everything for you. There are no other function.R code needed to run "run_analysis.R". 
-And you do not need to download the data by yourself. 
+-just open R and run it. This "run_analysis.R" will do everything for you. There are no other function.R code needed to run "run_analysis.R". 
+-And you do not need to download the data by yourself. 
 
 
