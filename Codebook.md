@@ -43,16 +43,23 @@
   
  ----------------------- 
  ## Note 
-### feature values 
+* feature values 
+
  The feature values are recoreded from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ to
  study the feature of a certain activtity.
  
-### there are 561 features. some of the features are:
+
+there are 561 features. some of the features are:
 1 tBodyAcc-mean()-X
+
 2 tBodyAcc-mean()-Y
+
 3 tBodyAcc-mean()-Z
+
 4 tBodyAcc-std()-X
+
 5 tBodyAcc-std()-Y
+
 6 tBodyAcc-std()-Z
 
 for more information concerning features, refer to:
