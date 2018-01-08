@@ -7,10 +7,11 @@
     
 
 ## Raw data to be cleaned
-  the original raw data is here:
+### -The original raw data is here:
+\n
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
-  the data used in "run_analysis.R" are:
+### -The data used in "run_analysis.R" are:
   1.subject_test.txt
   x_test.txt
   y_test.txt
