@@ -12,7 +12,7 @@
     - STANDING
     - LAYING
   
-  -Activity was recorded in "y_test.txt" and ""y_train.txt" in the raw data as numbers from 1 to 6. 
+  - Activity was recorded in "y_test.txt" and ""y_train.txt" in the raw data as numbers from 1 to 6. 
 
 
 ### Subject
